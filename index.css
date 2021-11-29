@@ -127,9 +127,9 @@ body {
     margin-top: 20px;
 }
 #main #left ul li a {
-     text-decoration: none;
-     color: #404040;
- }
+    text-decoration: none;
+    color: #404040;
+}
 #main #left ul li a:hover{
     color: orange;
 }
